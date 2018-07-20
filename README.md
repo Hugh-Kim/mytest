@@ -19,4 +19,6 @@ feature commit again
 
 for feature 5 with out 4
 
-feature commit again
+this is feature 4
+
+feature 4 again
