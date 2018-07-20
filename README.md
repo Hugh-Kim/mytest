@@ -12,3 +12,5 @@ add new feature 3 commit 1
 additional commit
 
 bug fix for relase-1.0.1
+
+for feature 5 with out 4
