@@ -29,3 +29,5 @@ feature commit again
 feature 4 again
 
 add feature 4 commit
+
+feature 7
